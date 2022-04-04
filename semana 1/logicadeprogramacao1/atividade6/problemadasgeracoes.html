@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Problema das Gerações</h3>
+</body>
+
+<script>
+    let idadeMedia = 28;
+    let passaramAnos = 2022 - 1500;
+    let geracoes = Round.Math(passaramAnos/idadeMedia); 
+
+    let pulaLinha = () => {
+        document.write("<br>");
+    }
+
+    let mostra = (frase) => {
+        document.write(frase + geracoes);
+    }
+
+    mostra("Passaram ")
+</script>
+</html>

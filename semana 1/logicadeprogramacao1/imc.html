@@ -1,0 +1,28 @@
+<meta charset="UTF-8">
+
+<script>
+
+    let pulaLinha = () => {
+
+        document.write("<br>");
+        document.write("<br>");
+
+    }
+
+    let mostra = (frase) => {
+
+        document.write(frase);
+        pulaLinha();
+    }
+
+    let calculaImc = (altura1, peso1, altura2, peso2) => {
+
+        let imc = peso / (altura * altura);
+        mostra(" O imc calculado é " + imc);
+    }
+
+
+    calculaImc(1.71, 73);
+    
+
+</script>
