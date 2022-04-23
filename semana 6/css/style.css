@@ -226,6 +226,10 @@ td, th {
 	clear: left;
 }
 
+.titulo-principal:first-letter {
+	font-weight: bold;
+}
+
 .principal {
 	padding: 3em 0;
     background: #FEFEFE;
@@ -285,6 +289,10 @@ td, th {
 
 .itens {
 	line-height: 1.5;
+	
+}
+.itens::before{
+	content: "☆ ";
 }
 .itens:first-child {
     font-weight: bold;
