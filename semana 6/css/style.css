@@ -221,9 +221,10 @@ td, th {
 
 .titulo-principal {
 	text-align: center;
-	font-size: 2em;
-	margin: 0 0 1em;
-	clear: left;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    color: rgb(0,0,0,0.3);
 }
 
 .titulo-principal:first-letter {
@@ -300,7 +301,12 @@ td, th {
 
 .imagem-beneficios {
     width: 60%;
-	
+	opacity: 1;
+	transition: 400ms;
+}
+
+.imagem-beneficios:hover {
+	opacity: 0.3;
 }
 
 
