@@ -89,6 +89,9 @@ let inserePlacar = () => {
     linha.find(".botao-remover").click(removeLinha);
 
     corpoTabela.append(linha);
+
+    $(".placar").slideDown(500);
+    scrollPlacar();
 }
 
 let novaLinha = (usuario, palavras) => {
@@ -124,5 +127,23 @@ let finalizaJogo = () => {
 
 let removeLinha = (event) => {
     event.preventDefault();
-    $(this).parent().parent().remove();
+    var linha = $(this).parent().parent();
+
+    linha.fadeOut(1000);
+    setTimeout(function() {
+        linha.remove();
+    }, 1000);
+}
+
+let mostraPlacar = () => {
+    $(".placar").stop().slideToggle(600);
+}
+
+let scrollPlacar = () => {
+    var posicaoPlacar = $(".placar").offset().top;
+
+    $("body").animate(
+    {
+        scrollTop: posicaoPlacar + "px"
+    }, 1000);
 }
