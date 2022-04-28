@@ -34,9 +34,10 @@ let inicializaContadores = () => {
 
 
 let inicializaCronometro = () => {
-    var tempoRestante = $("#tempo-digitacao").text();
     campo.one("focus", function() {
-    var cronometroID = setInterval(function(){
+        var tempoRestante = $("#tempo-digitacao").text();
+    
+        var cronometroID = setInterval(function(){
         tempoRestante--;
         $("#tempo-digitacao").text(tempoRestante);
         if(tempoRestante < 1){
@@ -66,6 +67,8 @@ let inicializaMarcadores = () => {
 
     var frase = $(".frase").text();
     campo.on("input", function() {
+        var frase = $(".frase").text();
+
         var digitado = campo.val();
         var comparavel = frase.substr(0 , digitado.length);
 
