@@ -4,9 +4,10 @@ $(function(){
         atualizaTamanhoFrase();
         inicializaContadores();
         inicializaCronometro();
-        inicializaMarcadores(); //novo
-
+        inicializaMarcadores(); 
         $("#botao-reiniciar").click(reiniciaJogo);
+
+        atualizaPlacar();
 });
 
 let atualizaTamanhoFrase= () => {
