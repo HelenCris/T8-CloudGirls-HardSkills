@@ -6,4 +6,5 @@
 - 6° Semana - Finalizado o módulo: [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) e [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) parte 3: trabalhando com formulários e tabelas e o módulo: [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) e [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) parte 4: avançando no [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - 7° Semana - Finalizado o módulo sobre [JQuery](https://jquery.com/)
 - 8° Semana - Finalizado o módulo sobre Layouts Responsivos e o projeto frontend
-- 9° Semana - Finalizado o módulo: JAVA JRE e JDK e iniciado o módulo introdutório de POO com JAVA
+- 9° Semana - Finalizado o módulo: JAVA JRE e JDK e o módulo introdutório de POO com JAVA
+-10° Semana - Inicializado o módulo de polimorfismo
