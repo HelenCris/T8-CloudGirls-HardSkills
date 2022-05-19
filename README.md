@@ -7,4 +7,4 @@
 - 7° Semana - Finalizado o módulo sobre [JQuery](https://jquery.com/)
 - 8° Semana - Finalizado o módulo sobre Layouts Responsivos e o projeto frontend
 - 9° Semana - Finalizado o módulo: JAVA JRE e JDK e o módulo introdutório de POO com JAVA
--10° Semana - Inicializado o módulo de polimorfismo
+- 10° Semana - Finalizado o módulo de polimorfismo
