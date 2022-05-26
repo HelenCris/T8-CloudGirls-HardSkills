@@ -8,3 +8,4 @@
 - 8° Semana - Finalizado o módulo sobre Layouts Responsivos e o projeto frontend
 - 9° Semana - Finalizado o módulo: JAVA JRE e JDK e o módulo introdutório de POO com JAVA
 - 10° Semana - Finalizado o módulo de polimorfismo
+- 11° Semana - Finalizado o módulo: JAVA Exceções: aprenda a criar, lançar e controlar exceções e Pacotes e Java.lang
