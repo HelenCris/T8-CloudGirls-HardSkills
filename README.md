@@ -9,4 +9,4 @@
 - 9° Semana - Finalizado o módulo: JAVA JRE e JDK e o módulo introdutório de POO com JAVA
 - 10° Semana - Finalizado o módulo de polimorfismo
 - 11° Semana - Finalizado o módulo: JAVA Exceções: aprenda a criar, lançar e controlar exceções e Pacotes e Java.lang
-- 12° Semana - Finalizado o módulo Java e Java.util: Coleções, Wrappers e Lambda expressions e Inicializando o módulo Java e Java.io: Streams, Reader e Writers
+- 12° Semana - Finalizado o módulo Java e Java.util: Coleções, Wrappers e Lambda expressions e o módulo Java e Java.io: Streams, Reader e Writers
