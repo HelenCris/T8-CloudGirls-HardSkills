@@ -10,3 +10,4 @@
 - 10° Semana - Finalizado o módulo de polimorfismo
 - 11° Semana - Finalizado o módulo: JAVA Exceções: aprenda a criar, lançar e controlar exceções e Pacotes e Java.lang
 - 12° Semana - Finalizado o módulo Java e Java.util: Coleções, Wrappers e Lambda expressions e o módulo Java e Java.io: Streams, Reader e Writers
+- 13° Semana - Finalizado o módulo Java Collections: Dominando Listas, Sets e Mapas
